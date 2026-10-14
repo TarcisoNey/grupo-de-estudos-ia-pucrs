@@ -217,3 +217,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 .env
+
+# Repositorio separado clonado dentro deste projeto (nao faz parte deste repo)
+Carrinho360/
